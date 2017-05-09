@@ -3,6 +3,9 @@ package com.mkyong;
 public class Track {
 
 	
+
+//Changed Manually////////////
+
 	String title;
 	String singer;
 
